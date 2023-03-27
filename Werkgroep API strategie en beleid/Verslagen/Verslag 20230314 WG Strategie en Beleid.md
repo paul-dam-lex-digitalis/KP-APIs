@@ -30,7 +30,7 @@ Publieke sector, op alfabetische volgorde van organisatie: Redouan Ahaloui (Foru
 -	Programma Data bij de Bron
 -	CBS (via Gino Laan)
 
-### Uitgebreide notule
+### Uitgebreide notulen
 
 ***Theo Peters***:<br>
 Verbinding leggen met federatief data stelsel, interbestuurlijke data strategie. Onderdeel van de strategie: breng de aandacht bij elkaar. 
